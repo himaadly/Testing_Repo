@@ -8,4 +8,4 @@ some description in feature branch
 
 # local development
 
-1. open efasddfasdsa
+1. open file and edit finished
